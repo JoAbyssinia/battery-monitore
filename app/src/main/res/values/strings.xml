@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Battery Monitor </string>
+    <string name="action_settings">about</string>
+    <string name="icon">icon</string>
+    <string name="batteryicon">batteryicon</string>
+    <string name="v_1_0">V 1.0</string>
+    <string name="abyssina_smart_and_creative_solution">Abyssina Smart And Creative Solution</string>
+    <string name="dev_yohannes_kassa_yimam">Dev: Yohannes kassa Yimam</string>
+    <string name="email_yohanneskassa_yimam_gmail_com">email :yohanneskassa.yimam@gmail.com</string>
+    <string name="ethiopia_nazareth">ETHIOPIA - NAZARETH</string>
+    <string name="all_right_received_2010_e_c">All right received 2010 E.C</string>
+    <string name="_000">000%</string>
+    <string name="battery_details">Battery Details</string>
+    <string name="battery_monitor_service">Battery monitor service</string>
+</resources>
